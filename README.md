@@ -374,36 +374,5 @@ curl -X POST http://localhost:5000/api/sales \
 
 ---
 
-## 📈 Future Enhancements
-
-- Mobile app (React Native / Flutter)
-- Email notifications for orders
-- Advanced reporting & analytics
-- Multi-store support with location mapping
-- Prescription auto-renewal reminders
-- Integration with payment gateways
-- Inventory barcode scanning
-- Customer loyalty program
-- Real-time inventory sync
 
 ---
-
-## 📄 License
-
-This project is open source and available for educational and commercial use.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork and submit pull requests.
-
----
-
-## 📞 Support
-
-For issues or questions, please create an issue in the repository or contact the development team.
-
----
-
-**Built with ❤️ for the eyewear industry**
